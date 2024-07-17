@@ -1,6 +1,6 @@
 export default {
   toolbar: {
-    undo: 'Rückgängig machen',
+    undo: 'Rückgängig ma',
     redo: 'Wiederherstellen',
     paintformat: 'Format kopieren/einfügen',
     clearformat: 'Format löschen',
